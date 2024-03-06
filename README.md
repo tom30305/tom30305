@@ -8,7 +8,16 @@ Studied : Aeronautics and Astronautics Engineering at National Cheng Kung Univer
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tom30305&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tom30305&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tom30305&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tom30305&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tom30305&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tom30305&theme=radical&no-frame=false&no-bg=true&margin-w=4)
