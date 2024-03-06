@@ -2,7 +2,8 @@
 
 # 💫 About Me:
 Studied : Aeronautics and Astronautics Engineering at National Cheng Kung University,Taiwan
-#Interest in computer science, programming
+
+Interest in computer science, programming
 
 
 ## 🌐 Socials:
