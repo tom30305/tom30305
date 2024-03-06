@@ -12,7 +12,7 @@ Studied : Aeronautics and Astronautics Engineering at National Cheng Kung Univer
 
 ###
 
-<div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tom30305&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
