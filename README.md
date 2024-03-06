@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Amo 👋
 
 <!--
 **tom30305/tom30305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
